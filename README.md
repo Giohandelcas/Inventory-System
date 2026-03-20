@@ -1,7 +1,7 @@
 # Inventory System
 
 - Start test using Cloude
-A full-stack inventory management system for small stores.
+- A full-stack inventory management system for small stores.
 
 ## Tech Stack
 
